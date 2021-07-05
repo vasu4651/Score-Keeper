@@ -4,7 +4,7 @@ let isGameOver = false;
 
 
 
-let winScore = 4;
+let winScore = 3;
 let playto = document.querySelector('#playto');
 
 playto.addEventListener('change' ,() => {
